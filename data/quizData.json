@@ -1,0 +1,54 @@
+{
+  "questions": [
+    {
+      "question": "What is the file extension for Node.js modules?",
+      "options": ["js", "node", "mod", "json"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which Node.js module is used for working with file systems?",
+      "options": ["http", "fs", "path", "url"],
+      "correctIndex": 1
+    },
+    {
+      "question": "Which of the following is used to install dependencies in Node.js?",
+      "options": ["npm install", "npm run", "npm start", "npm init"],
+      "correctIndex": 0
+    },
+    {
+      "question": "What is the main purpose of the 'require' function in Node.js?",
+      "options": ["To import modules", "To export modules", "To delete modules", "To modify modules"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which event is emitted when a new connection is made in the net module of Node.js?",
+      "options": ["connect", "data", "error", "connection"],
+      "correctIndex": 3
+    },
+    {
+      "question": "Which Node.js feature allows asynchronous code execution?",
+      "options": ["Callbacks", "Promises", "Async/await", "All of the above"],
+      "correctIndex": 3
+    },
+    {
+      "question": "What does 'npm' stand for?",
+      "options": ["Node Package Manager", "Node Project Manager", "New Programming Module", "Node Plugin Module"],
+      "correctIndex": 0
+    },
+    {
+      "question": "In Node.js, what is the purpose of the 'process' object?",
+      "options": ["To provide information about the current process", "To create child processes", "To manage file operations", "To handle HTTP requests"],
+      "correctIndex": 0
+    },
+    {
+      "question": "Which method is used to listen for incoming HTTP requests in an Express.js application?",
+      "options": ["app.get()", "app.listen()", "app.post()", "app.use()"],
+      "correctIndex": 1
+    },
+    {
+      "question": "What is the purpose of the 'npm init' command?",
+      "options": ["To initialize a new Node.js project", "To install dependencies", "To start the application", "To run tests"],
+      "correctIndex": 0
+    }
+  ]
+}
