@@ -13,13 +13,12 @@ This is a Quiz Application amde with NodeJs,Express Js.
 
 ```bash
 git clone <repository-url>
-    Navigate to the project directory:
 
-
+2.Navigate to the project directory:
 
 cd quiz-application
 
-    Install dependencies:
+3.Install dependencies:
 
 
 
