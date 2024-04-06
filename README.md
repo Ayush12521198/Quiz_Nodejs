@@ -15,9 +15,9 @@ This is a Quiz Application amde with NodeJs,Express Js.
 git clone <repository-url>
 
 
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 
-cd quiz-application
+     cd quiz-application
 
 3.Install dependencies:
 
