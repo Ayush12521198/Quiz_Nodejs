@@ -1,34 +1,42 @@
 # Quiz_Nodejs
 
-This is a simple quiz application built with HTML, CSS, and JavaScript.
+This is a Quiz Application amde with NodeJs,Express Js.
 
 ## How to Run
 
-1. Clone the repository:
+### Prerequisites
+- Node.js installed on your machine. You can download it from [here](https://nodejs.org/).
+
+### Installation
+
+1. Clone the repository to your local machine:
 
 ```bash
 git clone <repository-url>
-
     Navigate to the project directory:
 
-bash
+
 
 cd quiz-application
 
-    Open index.html in a web browser to run the application.
-
-Dependencies
-
-    None
-
-Contributing
-
-Contributions are welcome! Please submit a pull request if you would like to contribute to this project.
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-
-vbnet
+    Install dependencies:
 
 
-Replace `<repository-url>` with the URL of your Git repository.
+
+npm install
+
+Running the Application
+
+    Start the Node.js server:
+
+
+
+node app.js
+
+    Open a web browser and go to http://localhost:3000 to access the quiz application.
+
+Usage
+
+    Answer the quiz questions by selecting the appropriate options.
+    Click the "Submit" button to submit your answers and see the results.
+
